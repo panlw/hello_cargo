@@ -1,10 +1,9 @@
 # [Hello Cargo](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html)
 
-## China Mirrors
-
 ```shell
 # rust
 # [Environment variables](https://github.com/rust-lang/rustup/blob/master/doc/src/environment-variables.md)
+# china mirrors
 #export RUSTUP_UPDATE_ROOT=https://mirrors.ustc.edu.cn/rust-static/rustup
 #export RUSTUP_DIST_SERVER=https://mirrors.ustc.edu.cn/rust-static
 export RUSTUP_DIST_SERVER=https://mirror.sjtu.edu.cn/rust-static
